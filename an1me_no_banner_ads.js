@@ -2,7 +2,7 @@
 // @name         An1me.nl
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Blocking the banners / side-ads on anime.nl
 // @author       Thanos Arampatzis
 // @match        https://an1me.nl/
 // @match        https://an1me.nl/*
